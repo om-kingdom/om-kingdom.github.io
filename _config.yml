@@ -2,14 +2,16 @@
 
 #google_analytics: UA-NNNNNNNN-N
 
-#header_pages:
-#  - index.md
+header_pages:
+  - om_index.md
 #  - about.md
 
-#footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+footer: 'stá mi tristeza <a href="https://www.youtube.com/watch?v=Kv7bHGpoXWo">sonando</a> en la calle'
 
-#style: light # dark (default) or light
-#listen_for_clients_preferred_style: true # true or false (default)
+style: dark #light # dark (default) or light
+listen_for_clients_preferred_style: true # true or false (default)
 
 plugins:
   - jekyll-seo-tag
+
+theme: jekyll-theme-console
