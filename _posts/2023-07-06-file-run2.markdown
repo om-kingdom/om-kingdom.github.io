@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "file-run2 PicoCTF"
+date:   2023-07-06 12:32:45 +0100
+categories:
+---
+
+
+# file-run2
+#picoCTF2022 #ReverseEngineering
+
+# Objetivo
+Another program, but this time, it seems to want some input. What happens if you try to run it on the command line with input "Hello!"?
+
+# Solucion
+Mediante wget obtenemos el archivo, nos encontramos de nuevo frente a un ejecutable sin extension.
+Se otorgan permisos de ejecucion y al hacer una prueba el archivo nos pide un argumento.
+```bash
+❯ chmod +x run
+❯ ./run
+Run this file with only one argument.
+```
+
+Al otorgarle un argumento al comando que ejecuta el archivo podemos obtener la bandera.
+
+```bash
+❯ ./run Hello!
+The flag is: picoCTF{F1r57_4rgum3n7_96f2195f}%      
+```
+
+==picoCTF{F1r57_4rgum3n7_96f2195f}==
+
+
+# Notas adicionales
+# Referencias
