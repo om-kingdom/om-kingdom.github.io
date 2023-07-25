@@ -11,7 +11,7 @@ Deilos informaticos es un término utilizado generalmente para __describir activ
 Los delitos informaticos son definidos como __cualquier acto ilegal que implica una computadora, sus sistemas o sus aplicaciónes__.
 - Crimenes dirigidos contra una computadora.
 - Crimenes en los que la computadora contiene evidencia.
-- Crinebes en los que la computadora es utilizada para cometer el crimen.
+- Crimenes en los que la computadora es utilizada para cometer el crimen.
 Los delitos informaticos son __intencionales y no accidentales__.
 ## Las computadoras y los crimenes 
 La dependencia hacia las computadoras ha creado formas de realizar __nuevos crimenes__.
@@ -30,7 +30,7 @@ Los delitos informaticos han sido catalogados dentro de dos tipos basados en la 
 A continuación una serie de __ejemplos__ de delitos informaticos:
 
 - Fraude relizado mediante la manipulacion de __registros de una computadora__.
-- Hacer spam en cualquier sitio donde se __prohiba__ completamente o donde las regulacones de control sean violadas.
+- Hacer spam en cualquier sitio donde se __prohiba__ completamente o donde las regulaciones de control sean violadas.
 - Burla deliberada de los __sistemas de seguridad informatica__.
 - Acceso no autorizado o __modificacion de programas y datos__.
 - __Robo de propiedad__ intelectual, esto incluye la pirateria de software.
@@ -39,7 +39,7 @@ A continuación una serie de __ejemplos__ de delitos informaticos:
 - Escritura o esparcimiento de __malware informatico__.
 - Salamis slicing es una práctica de __robo de dinero__ repetidamente en pequeñas cantidades.
 - Ataques de denegación de servicio (DoS) en los que los sitios web de una compañia son __inundados con peticiones de serivio__ y sus sitios web son sobrecargados y realtenizados o son colapsados completamente.
-- Crear y distribuir digiralmente __pornografía infantil__.
+- Crear y distribuir digitalmente __pornografía infantil__.
 
 ## Tipos de delitos informaticos
 
@@ -54,7 +54,7 @@ A continuación una serie de __ejemplos__ de delitos informaticos:
 - Cyber acoso.
 - Robo de propiedad intelectual.
 - Cyber difamación.
-- Tráfico de drogas,
+- Tráfico de drogas.
 - Ataques de denegación de servicio.
 - Piratería de software.
 - Phishing/Spoofing.
@@ -63,12 +63,13 @@ A continuación una serie de __ejemplos__ de delitos informaticos:
 - Escritura de código incorrecta.
 - Secuestro web.
 - Malversación.
+
 Entre muchos otros más...
 
 # Delincuentes informaticos
 Los delincuentes informaticos cada vez más se están asociando con sindicatos de __crimen organizado__ para tomar ventaja de sus sofisticadas técnicas.
 Hay grupos organizados de delincuentes informaticos que __trabajan de forma jerárquica__ con modelo de ganancia compartida, como una gran corporación que ofrece serivicios criminales.
-Los grupos organizados __crean y rentan botnets__ ademas de ofrecer varios seriviocs, desde la escritura de malware hasta el hackeo de cuentas de banco, todo por un precio.
+Los grupos organizados __crean y rentan botnets__ ademas de ofrecer varios servicios, desde la escritura de malware hasta el hackeo de cuentas de banco, todo por un precio.
 Según Verizon y su Data Breach Investigations Report de 2023 el 83% de los ataques es cometido con fines lucrativos.
 La creciente involucración de sindicatos criminales organizados en __hactivismo y guerra cibernetica con motivos políticos__ es un asunto de importancia para las agencias de seguridad nacional.
 
