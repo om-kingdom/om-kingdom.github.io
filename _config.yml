@@ -4,9 +4,9 @@
 
 header_pages:
   - om_index.md
-#  - about.md
+  - acerca_de.md
 
-footer: 'stá mi tristeza <a href="https://www.youtube.com/watch?v=Kv7bHGpoXWo">sonando</a> en la calle'
+footer: 'escuchamos mucho <a href="https://www.youtube.com/watch?v=6_uAAzbv4IE">synthwave</a> mientras creamos este sitio web'
 
 style: dark #light # dark (default) or light
 listen_for_clients_preferred_style: true # true or false (default)
