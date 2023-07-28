@@ -4,7 +4,7 @@ layout: home
 permalink: / 
 ---
 
-# OnlyMalware - Kingdom
+# Research eXchange - Malware Zone
  NO SOMOS AUTORES DE MALWARE, NOSOTROS ROMPEMOS EL MALWARE.
 
 # Bienvenido
