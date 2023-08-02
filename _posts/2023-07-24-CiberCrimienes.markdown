@@ -80,4 +80,6 @@ Según la '2023 Global Trust Insights Survey' de PricewaterhouseCoopers (PwC):
 - El 29% de las grandes organizaciones espera un aumento de ataques hacia tecnologia operativa.
 - El 45% de los ejecutivos en areas de ciberseguridad esperan un alza en ataques de ransomware.
 
-
+```
+...me enseñarás todo lo que sabes, aunque no pueda recordar más me seguirás enseñando...
+```
