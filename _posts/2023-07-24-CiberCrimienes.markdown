@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Delitos informaticos y ciber delincuentes"
+title: "Fundamentos de Seguridad: La $aga de los Delitos Informaticos y Ciber Delincuentes"
 date: 2023-07-24 19:12:54 +0100
 categories: "Investigacion"
 ---
