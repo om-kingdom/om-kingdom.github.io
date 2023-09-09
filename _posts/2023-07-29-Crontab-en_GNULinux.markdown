@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Crontab en GNU/Linux"
+title: "Linuxología Parte I: Crontab en GNU/Linux"
 date: 2023-07-29 22:28:50 +0100
 categories: "Utilidades"
 ---
 
-# Crontab en GNU/Linux
+# Linuxología Parte I: Crontab en GNU/Linux
 ## ¿Qué es el sistema crontab?
 En el contexto de GNU/Linux (Linux para abreviar), existe un sistema llamado _cron_ que permite programar y ejecutar tareas de forma periódica, el intervalo de tiempo es definido por el usuario y puede abarcar lapsos de tiempo como miutos, horas, dias, semanas, etc.
 
